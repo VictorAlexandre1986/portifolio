@@ -380,11 +380,11 @@ section{
 }
 
 .skills-column:nth-child(1) .skills-content .progress:nth-child(1) .bar span{
-    width: 90%;
+    width: 70%;
 }
 
 .skills-column:nth-child(1) .skills-content .progress:nth-child(2) .bar span{
-    width: 85%;
+    width: 80%;
 }
 
 .skills-column:nth-child(1) .skills-content .progress:nth-child(3) .bar span{
